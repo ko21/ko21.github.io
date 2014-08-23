@@ -12,42 +12,43 @@ html {
 
 /* line 15, ../scss/sukiya.scss */
 body {
+  -webkit-text-size-adjust: 100%;
   font-size: 12px;
 }
 
-/* line 19, ../scss/sukiya.scss */
+/* line 20, ../scss/sukiya.scss */
 #header {
   width: 100%;
   height: 40px;
   background-color: #000;
   border-bottom: 1px solid #ccc;
 }
-/* line 24, ../scss/sukiya.scss */
+/* line 25, ../scss/sukiya.scss */
 #header .left_box {
   width: 20%;
   height: 40px;
   float: left;
 }
-/* line 29, ../scss/sukiya.scss */
+/* line 30, ../scss/sukiya.scss */
 #header .middle_box {
   width: 60%;
   height: 40px;
   float: left;
 }
-/* line 34, ../scss/sukiya.scss */
+/* line 35, ../scss/sukiya.scss */
 #header .right_box {
   width: 20%;
   height: 40px;
   float: left;
 }
-/* line 39, ../scss/sukiya.scss */
+/* line 40, ../scss/sukiya.scss */
 #header figure {
   background-color: #ccc;
   width: 30px;
   height: 30px;
   margin: 5px 0 5px 10px;
 }
-/* line 45, ../scss/sukiya.scss */
+/* line 46, ../scss/sukiya.scss */
 #header .button {
   margin: 10px auto;
   width: 100px;
@@ -58,7 +59,7 @@ body {
   color: #fff;
   border-radius: 3px;
 }
-/* line 55, ../scss/sukiya.scss */
+/* line 56, ../scss/sukiya.scss */
 #header .menu {
   width: 20px;
   height: 20px;
@@ -67,7 +68,7 @@ body {
   float: right;
 }
 
-/* line 63, ../scss/sukiya.scss */
+/* line 64, ../scss/sukiya.scss */
 #images {
   width: 90%;
   height: 100px;
@@ -75,7 +76,7 @@ body {
   margin-bottom: 10px;
 }
 
-/* line 70, ../scss/sukiya.scss */
+/* line 71, ../scss/sukiya.scss */
 .friend, .fb, .numbers, .tw, .press, .new {
   padding: 1px 5px 1px 5px;
   text-align: center;
@@ -86,34 +87,34 @@ body {
   font-size: 10px;
 }
 
-/* line 80, ../scss/sukiya.scss */
+/* line 81, ../scss/sukiya.scss */
 .social {
   width: 80%;
   height: 20px;
   margin: 0 auto 10px auto;
 }
 
-/* line 86, ../scss/sukiya.scss */
+/* line 87, ../scss/sukiya.scss */
 .friend {
   background-color: #9f9;
 }
 
-/* line 90, ../scss/sukiya.scss */
+/* line 91, ../scss/sukiya.scss */
 .fb {
   background-color: #99f;
 }
 
-/* line 94, ../scss/sukiya.scss */
+/* line 95, ../scss/sukiya.scss */
 .numbers {
   background-color: #eee;
 }
 
-/* line 98, ../scss/sukiya.scss */
+/* line 99, ../scss/sukiya.scss */
 .tw {
   background-color: #ccc;
 }
 
-/* line 103, ../scss/sukiya.scss */
+/* line 104, ../scss/sukiya.scss */
 .news_head {
   box-sizing: border-box;
   width: 90%;
@@ -122,13 +123,13 @@ body {
   color: #993333;
   padding: 10px 10px 0px 10px;
 }
-/* line 110, ../scss/sukiya.scss */
+/* line 111, ../scss/sukiya.scss */
 .news_head span {
   font-size: 12px;
   float: right;
 }
 
-/* line 115, ../scss/sukiya.scss */
+/* line 116, ../scss/sukiya.scss */
 .press {
   float: left;
   background-color: #993333;
@@ -136,7 +137,7 @@ body {
   margin-left: 10px;
 }
 
-/* line 123, ../scss/sukiya.scss */
+/* line 124, ../scss/sukiya.scss */
 article {
   box-sizing: border-box;
   width: 100%;
@@ -144,23 +145,23 @@ article {
   border-bottom: 1px dashed #993333;
   color: #0099ff;
 }
-/* line 129, ../scss/sukiya.scss */
+/* line 130, ../scss/sukiya.scss */
 article time {
   font-size: 10px;
   float: left;
 }
-/* line 133, ../scss/sukiya.scss */
+/* line 134, ../scss/sukiya.scss */
 article p {
   clear: both;
   margin-top: 5px;
 }
 
-/* line 139, ../scss/sukiya.scss */
+/* line 140, ../scss/sukiya.scss */
 .press {
   background-color: #993333;
 }
 
-/* line 144, ../scss/sukiya.scss */
+/* line 145, ../scss/sukiya.scss */
 .new {
   background-color: #fff;
   border: 1px solid #993333;
@@ -168,7 +169,7 @@ article p {
   margin-left: 10px;
 }
 
-/* line 151, ../scss/sukiya.scss */
+/* line 152, ../scss/sukiya.scss */
 .more {
   box-sizing: border-box;
   width: 90%;
@@ -183,7 +184,7 @@ article p {
   text-align: center;
 }
 
-/* line 165, ../scss/sukiya.scss */
+/* line 166, ../scss/sukiya.scss */
 .radiation {
   box-sizing: border-box;
   width: 90%;
@@ -195,7 +196,7 @@ article p {
   font-size: 16px;
 }
 
-/* line 176, ../scss/sukiya.scss */
+/* line 177, ../scss/sukiya.scss */
 .black_line {
   width: 100%;
   height: 5px;
@@ -203,7 +204,7 @@ article p {
   margin-top: 10px;
 }
 
-/* line 183, ../scss/sukiya.scss */
+/* line 184, ../scss/sukiya.scss */
 table {
   border-collapse: collapse;
   width: 100%;
@@ -211,12 +212,12 @@ table {
   color: #fff;
   text-align: center;
 }
-/* line 189, ../scss/sukiya.scss */
+/* line 190, ../scss/sukiya.scss */
 table td {
   height: 80px;
   border: 1px solid #eee;
 }
-/* line 192, ../scss/sukiya.scss */
+/* line 193, ../scss/sukiya.scss */
 table td figure {
   width: 30px;
   height: 30px;
@@ -224,18 +225,18 @@ table td figure {
   margin: 0 auto;
   background-color: #ccc;
 }
-/* line 199, ../scss/sukiya.scss */
+/* line 200, ../scss/sukiya.scss */
 table td h5 {
   margin: 0 auto;
 }
 
-/* line 204, ../scss/sukiya.scss */
+/* line 205, ../scss/sukiya.scss */
 ul {
   width: 100%;
   height: 240px;
 }
 
-/* line 209, ../scss/sukiya.scss */
+/* line 210, ../scss/sukiya.scss */
 ul li {
   box-sizing: border-box;
   width: 50%;
@@ -250,7 +251,7 @@ ul li {
   border-bottom: 1px solid #999;
 }
 
-/* line 223, ../scss/sukiya.scss */
+/* line 224, ../scss/sukiya.scss */
 .copy {
   width: 100%;
   padding: 10px;
@@ -259,7 +260,7 @@ ul li {
   color: #ccc;
 }
 
-/* line 231, ../scss/sukiya.scss */
+/* line 232, ../scss/sukiya.scss */
 .pc {
   width: 90%;
   background-color: #fff;
