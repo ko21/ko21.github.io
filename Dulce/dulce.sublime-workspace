@@ -1,0 +1,777 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-spacing"
+			],
+			[
+				"sesuna",
+				"sesuna_on.jpg	w:640 h:427"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"mw",
+				"min-width"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"c",
+				"css/"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"border-co",
+				"border-collapse"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"se",
+				"separate"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"sele",
+				"selectmenu"
+			],
+			[
+				"this",
+				"thisAddress"
+			],
+			[
+				"go",
+				"geocoder"
+			],
+			[
+				"sc",
+				"script	<script>"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"sta",
+				"Stats-output"
+			],
+			[
+				"rotat",
+				"rotationSpeed"
+			],
+			[
+				"inner",
+				"innerHeight	.innerHeight"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"scrip",
+				"script	Tag"
+			],
+			[
+				"ti",
+				"title	<title>"
+			],
+			[
+				"border-",
+				"border-left"
+			],
+			[
+				"sli",
+				"slideDown	.slideDown()"
+			],
+			[
+				"sl",
+				"slideDown	.slideDown()"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"date",
+				"datepicker"
+			],
+			[
+				"j",
+				"jquery-ui.min.css"
+			],
+			[
+				"ext",
+				"external/"
+			],
+			[
+				"jquery-ui",
+				"jquery-ui.min.js"
+			],
+			[
+				"la",
+				"lang	Attr"
+			],
+			[
+				"d",
+				"div	<div>"
+			],
+			[
+				"scri",
+				"script	Tag"
+			],
+			[
+				"scr",
+				"script	<script>"
+			],
+			[
+				"he",
+				"height	height"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Compass/Compass.sublime-build",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"packge",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ken/Desktop/コピーサイト/NotreDame/notre.html",
+		"/Users/ken/Desktop/コピーサイト/NotreDame/notre.sublime-project",
+		"/Users/ken/Desktop/NotreDame/.sass-cache/680c815f5730ca6aeffdd5fc967705c8dd21191d/_clearfix.scssc",
+		"/Users/ken/Desktop/NotreDame/untitled.sublime-project",
+		"/Users/ken/Desktop/NotreDame/notre.scss",
+		"/Users/ken/Desktop/htmlテスト/test.sublime-project",
+		"/Users/ken/Desktop/Acomodation/acomo.html",
+		"/Users/ken/Desktop/Acomodation/scss/acomo.scss",
+		"/Users/ken/Desktop/reset",
+		"/Users/ken/Desktop/コピーサイト/Azul/scss/azul.scss",
+		"/Users/ken/Desktop/htmlテスト/test.css",
+		"/Users/ken/Desktop/RSN/css/rsn.css",
+		"/Users/ken/Desktop/RSN/config.rb",
+		"/Users/ken/Desktop/LIG/.sass-cache/5ffe936378b7b64cd9a677d1baae741cab0362d9/_font-face.scssc",
+		"/Users/ken/Desktop/LIG/.sass-cache/c833cfda369878296c432894311abfc09cda0fa0/_contrast.scssc",
+		"/Users/ken/Desktop/LIG/config.rb",
+		"/Users/ken/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ken/Desktop/LiveSense/scss/untitled.scss",
+		"/Users/ken/Desktop/コピーサイト/TyokyoSeitokuHospital/tokyo.sublime-project",
+		"/Users/ken/Desktop/TyokyoSeitokuHospital/scss/seitoku.scss",
+		"/Users/ken/Desktop/TyokyoSeitokuHospital/tokyo.sublime-project",
+		"/Users/ken/Desktop/TyokyoSeitokuHospital/seitoku.html",
+		"/Users/ken/Desktop/コピーサイト/Azul/azul.html",
+		"/Users/ken/Desktop/コピーサイト/Azul/azul.sublime-project",
+		"/Users/ken/Desktop/Azul/scss/azul.scss",
+		"/Users/ken/Desktop/Azul/azul.html",
+		"/Users/ken/Desktop/htmlテスト/test.html",
+		"/Users/ken/Desktop/Solomid Frame/solomid_frame.html",
+		"/Users/ken/Desktop/Solomid Frame/scss/solomid_frame.scss",
+		"/Users/ken/Desktop/Solomid Frame/.sass-cache/5ffe936378b7b64cd9a677d1baae741cab0362d9/_text-shadow.scssc",
+		"/Users/ken/Desktop/Solomid Frame/.sass-cache/4b175f4973bfa3348d90bb326612f1af85bb389b/_lists.scssc",
+		"/Users/ken/Desktop/Solomid Frame/.sass-cache/4b175f4973bfa3348d90bb326612f1af85bb389b/_links.scssc",
+		"/Users/ken/Desktop/Solomid Frame/.sass-cache/429f6be6b383ff8a2743229146ebb17b33aa43cc/_compass.scssc",
+		"/Users/ken/Desktop/Solomid Frame/.sass-cache/22ad7f482a088f786c0ab165bd8b64a69d1f610e/_scaffolding.scssc",
+		"/Users/ken/Desktop/Solomid Frame/.sass-cache/22ad7f482a088f786c0ab165bd8b64a69d1f610e/_borders.scssc",
+		"/Users/ken/Desktop/Solomid Frame/.sass-cache/22ad7f482a088f786c0ab165bd8b64a69d1f610e/_alternating-rows-and-columns.scssc",
+		"/Users/ken/Desktop/Solomid Frame/.sass-cache/13ecc6d3c2cdb6e10b870663ecc362ea120212ac/_sprite-img.scssc",
+		"/Users/ken/Desktop/Solomid Frame/.sass-cache/13ecc6d3c2cdb6e10b870663ecc362ea120212ac/_base.scssc",
+		"/Users/ken/Desktop/Solomid Frame/.sass-cache/0b2b8dafd1baadcad01bdac487e7e34778cae454/solomid_frame.scssc",
+		"/Users/ken/Desktop/Solomid Frame/.sass-cache/01a4d361581b3948d1fd3db95e93147d8a8b084b/_tables.scssc",
+		"/Users/ken/Desktop/Solomid Frame/.sass-cache/01a4d361581b3948d1fd3db95e93147d8a8b084b/_sprites.scssc",
+		"/Users/ken/Desktop/Solomid Frame/.sass-cache/01a4d361581b3948d1fd3db95e93147d8a8b084b/_general.scssc",
+		"/Users/ken/Desktop/Solomid Frame/.sass-cache/01a4d361581b3948d1fd3db95e93147d8a8b084b/_color.scssc",
+		"/Users/ken/Desktop/Solomid Frame/untitled.sublime-project",
+		"/Users/ken/Desktop/Solomid Frame/config.rb",
+		"/Users/ken/Desktop/Yahoo copy/yahoo.sublime-project",
+		"/Users/ken/Desktop/Yahoo copy/yahoo-copy.html",
+		"/Users/ken/Desktop/Yahoo copy/scss/yahoo-copy.scss",
+		"/Users/ken/Desktop/Javascriptプラグインテスト/JsTest/jstest.html",
+		"/Users/ken/Desktop/Solomid Frame/css/solomid_frame.css",
+		"/Users/ken/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/ken/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ken/Desktop/Yahoo copy/config.rb",
+		"/Users/ken/Desktop/Yahoo copy/css/yahoo-copy.css",
+		"/Users/ken/Library/Application Support/Sublime Text 3/Packages/Browser Refresh/Default (OSX).sublime-keymap",
+		"/Users/ken/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/ken/Library/Application Support/Sublime Text 3/Packages/View in Browser/Default (OSX).sublime-keymap",
+		"/Users/ken/Desktop/Yahoo copy/yahoo-copy.css",
+		"/Users/ken/Desktop/sassTest/css/style.css",
+		"/Users/ken/Desktop/sassTest/scss/style.scss",
+		"/Users/ken/Desktop/sassTest/config.rb",
+		"/Users/ken/Desktop/sassTest/sassTest.html",
+		"/Users/ken/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/ken/Desktop/untitled.html",
+		"/Users/ken/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/ken/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/ken/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/ken/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/ken/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/ken/Library/Application Support/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/Users/ken/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/ken/Desktop/jqueryUI test/index.html",
+		"/Users/ken/Desktop/会社一覧/kaisha.html",
+		"/Users/ken/Desktop/jquery-ui-1.11.0.black/index.html",
+		"/Users/ken/Desktop/JsTest/untitled.html",
+		"/Users/ken/Desktop/JsTest/jstest.html",
+		"/Users/ken/Desktop/Official site1/html/kaisha.html",
+		"/Users/ken/Desktop/会社一覧/kaisha.css",
+		"/Users/ken/Desktop/Official site1/html/goods.html",
+		"/Users/ken/Desktop/会社一覧.html",
+		"/Users/ken/Desktop/JsTest/jstest.css",
+		"/Users/ken/Desktop/Official site1/css/index.css",
+		"/Users/ken/Desktop/Learning Three.js_ The JavaScript 3D Library for WebGL/chapter-01/05-control-gui.html",
+		"/Users/ken/Desktop/ThreeTest/LIG_logo.html",
+		"/Users/ken/Desktop/FullpageTest/sample.html",
+		"/Users/ken/Desktop/Official site1/html/newKigyouHiyou.html",
+		"/Users/ken/Desktop/FullpageTest/css/sample.css",
+		"/Users/ken/Desktop/Learning Three.js_ The JavaScript 3D Library for WebGL/chapter-01/04-materials-light-animation.html",
+		"/Users/ken/Desktop/Learning Three.js_ The JavaScript 3D Library for WebGL/chapter-08/05-blender-from-json.html",
+		"/Users/ken/Desktop/Learning Three.js_ The JavaScript 3D Library for WebGL/chapter-08/README.md",
+		"/Users/ken/Desktop/Learning Three.js_ The JavaScript 3D Library for WebGL/chapter-02/01-basic-scene.html",
+		"/Users/ken/Desktop/Learning Three.js_ The JavaScript 3D Library for WebGL/chapter-01/03-materials-light.html",
+		"/Users/ken/Desktop/Learning Three.js_ The JavaScript 3D Library for WebGL/chapter-01/02-first-scene.html",
+		"/Users/ken/Desktop/Learning Three.js_ The JavaScript 3D Library for WebGL/chapter-01/01-basic-skeleton.html",
+		"/Users/ken/Desktop/ThreeTest/lig.html",
+		"/Users/ken/Desktop/ThreeTest/untitled.html",
+		"/Users/ken/Desktop/New project/html/pulldown.html",
+		"/Users/ken/Desktop/New project/html/search.html",
+		"/Users/ken/Desktop/New project/css/untitled.css",
+		"/Users/ken/Desktop/UItest/html/uitest.html",
+		"/Users/ken/Desktop/プラグイン/jquery-ui-1.11.0.custom/index.html",
+		"/Users/ken/Desktop/プラグイン/jquery-ui-1.11.0.custom/jquery-ui.css",
+		"/Users/ken/Desktop/UItest/css/uitest.css",
+		"/Users/ken/Desktop/プラグイン/jquery-ui-1.11.0.custom/test.html",
+		"/Users/ken/Desktop/プラグイン/jquery-ui-1.11.0.custom/test.css",
+		"/Users/ken/Desktop/プラグイン/jquery-ui-1.11.0.custom/jquery-ui.min.css",
+		"/Users/ken/Desktop/New project/html/test.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"a",
+			"box_wrap",
+			"div",
+			"last",
+			"time",
+			"figure",
+			"content",
+			" href=\"\"",
+			"p",
+			"h1",
+			"a",
+			"li",
+			"h1",
+			";\n",
+			"acc",
+			"p",
+			"2s",
+			";\n",
+			"transi",
+			";\n",
+			"left",
+			"0cc",
+			"span",
+			"p",
+			"div",
+			"span",
+			"p",
+			"class",
+			"		<",
+			"righ",
+			"right",
+			"div",
+			"border",
+			"></",
+			"name",
+			">\n",
+			"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"UTF-8\">\n	<title>Document</title>\n	<link rel=\"stylesheet\" type=\"text/css\" href=\"test.css\">\n</head>\n<body>\n	<div id=\"case\">\n		<div class=\"row\"></div>\n		<div class=\"row\"></div>\n		<div class=\"row\"></div>\n		<div class=\"row\"></div>\n		<div class=\"row\"></div>\n		<div class=\"row\"></div>\n		<div class=\"row\"></div>\n	</div>\n</body>\n</html>",
+			"p",
+			"div",
+			"span",
+			">",
+			"save",
+			"5px\n",
+			" \n",
+			"html",
+			"complete",
+			"href",
+			"src",
+			"menu",
+			"<!",
+			"<div>",
+			"ココ",
+			"ミスリル",
+			"み",
+			"クラ",
+			"クラビ",
+			"30px",
+			"fog",
+			"rotation",
+			"gui",
+			"SpotLight",
+			"icon",
+			"tabs",
+			"icon",
+			"button",
+			"radiodset",
+			"script",
+			"link"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"{",
+			"10px\n",
+			"<div class=\"company\">\n",
+			">\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 32.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "dulce.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

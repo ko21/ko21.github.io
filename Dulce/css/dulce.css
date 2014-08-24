@@ -1,0 +1,347 @@
+/* line 2, ../scss/dulce.scss */
+* {
+  margin: 0 auto;
+  padding: 0;
+}
+
+/* line 6, ../scss/dulce.scss */
+html {
+  font-family: 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo', 'ＭＳ Ｐゴシック','MS P Gothic', sans-serif;
+  -ms-text-size-adjust: 100%;
+}
+
+/* line 10, ../scss/dulce.scss */
+li {
+  list-style: none;
+}
+
+/* line 13, ../scss/dulce.scss */
+#border {
+  width: 100%;
+  height: 5px;
+  border-top: 3px solid #900;
+  border-bottom: 1px solid #900;
+}
+
+/* line 20, ../scss/dulce.scss */
+nav {
+  width: 100%;
+  height: 80px;
+  border-bottom: 5px solid #cc0;
+  /* container */
+}
+/* line 24, ../scss/dulce.scss */
+nav .container {
+  width: 980px;
+  height: 80px;
+  margin: 0 auto;
+  /* box_wrap */
+}
+/* line 28, ../scss/dulce.scss */
+nav .container .logo {
+  width: 80px;
+  height: 80px;
+  background-color: #666;
+  float: left;
+}
+/* line 34, ../scss/dulce.scss */
+nav .container .box_wrap {
+  width: 890px;
+  height: 40px;
+  padding: 20px 0 20px 10px;
+  float: left;
+}
+/* line 39, ../scss/dulce.scss */
+nav .container .box_wrap h5 {
+  width: 230px;
+  height: 40px;
+  line-height: 40px;
+  color: #900;
+  float: left;
+}
+/* line 46, ../scss/dulce.scss */
+nav .container .box_wrap ul {
+  width: 500px;
+  height: 40px;
+  margin-left: 30px;
+  float: left;
+}
+/* line 51, ../scss/dulce.scss */
+nav .container .box_wrap ul li {
+  width: 165px;
+  height: 40px;
+  line-height: 40px;
+  float: left;
+  border-left: 1px solid #cc0;
+  text-align: center;
+}
+/* line 60, ../scss/dulce.scss */
+nav .container .box_wrap .box {
+  width: 126px;
+  height: 36px;
+  border: 2px solid #900;
+  float: left;
+}
+/* line 65, ../scss/dulce.scss */
+nav .container .box_wrap .box div {
+  box-sizing: border-box;
+  width: 122px;
+  height: 32px;
+  border: 1px solid #900;
+  margin: 2px;
+}
+
+/* nav */
+/* line 77, ../scss/dulce.scss */
+#image {
+  width: 100%;
+  height: 300px;
+  background-color: #ff0;
+}
+
+/* line 83, ../scss/dulce.scss */
+#main {
+  width: 100%;
+  height: 500px;
+  margin-top: 20px;
+  background-color: #cc0;
+  overflow: hidden;
+  /* group */
+}
+/* line 89, ../scss/dulce.scss */
+#main .group {
+  width: 980px;
+  height: 180px;
+  margin: 20px auto;
+}
+/* line 93, ../scss/dulce.scss */
+#main .group .box {
+  position: relative;
+  width: 230px;
+  height: 180px;
+  margin-right: 20px;
+  float: left;
+  background-color: #fff;
+  border-bottom: 3px solid #900;
+  border-radius: 3px;
+}
+/* line 102, ../scss/dulce.scss */
+#main .group .box figure {
+  width: 226px;
+  height: 100px;
+  background-color: #ffc;
+  margin: 2px;
+}
+/* line 108, ../scss/dulce.scss */
+#main .group .box h5 {
+  font-size: 18px;
+  padding: 20px 0 0 20px;
+}
+/* line 112, ../scss/dulce.scss */
+#main .group .box p {
+  font-size: 8px;
+}
+/* line 115, ../scss/dulce.scss */
+#main .group .box span {
+  font-size: 8px;
+  padding: 0 0 0 20px;
+  margin: 5px;
+  color: #900;
+}
+/* line 121, ../scss/dulce.scss */
+#main .group .box .line {
+  position: absolute;
+  bottom: 0;
+  height: 3px;
+  width: 100%;
+  border-top: 1px solid #900;
+}
+/* line 129, ../scss/dulce.scss */
+#main .group .box:last-child {
+  margin-right: 0;
+}
+
+/* main */
+/* line 136, ../scss/dulce.scss */
+article {
+  width: 980px;
+  height: 300px;
+  margin-top: 20px;
+  /* left_box */
+  /* right_box */
+}
+/* line 140, ../scss/dulce.scss */
+article .left_box {
+  width: 700px;
+  height: 260px;
+  margin-right: 20px;
+  float: left;
+  /* title */
+  /* news */
+}
+/* line 145, ../scss/dulce.scss */
+article .left_box .title {
+  width: 700px;
+  height: 40px;
+}
+/* line 148, ../scss/dulce.scss */
+article .left_box .title h4 {
+  width: 120px;
+  height: 40px;
+  border-radius: 3px 3px 0 0;
+  background-color: #900;
+  float: left;
+  text-align: center;
+  color: #fff;
+  line-height: 40px;
+  font-weight: normal;
+}
+/* line 159, ../scss/dulce.scss */
+article .left_box .title span {
+  display: block;
+  height: 40px;
+  float: right;
+  color: #900;
+  text-align: center;
+}
+/* line 168, ../scss/dulce.scss */
+article .left_box .news {
+  width: 700px;
+  height: 200px;
+  background-color: #fff;
+  border-bottom: 3px solid #900;
+  border-radius: 0 3px 3px 3px;
+  overflow: hidden;
+}
+/* line 175, ../scss/dulce.scss */
+article .left_box .news .box:first-child {
+  margin-top: 10px;
+}
+/* line 178, ../scss/dulce.scss */
+article .left_box .news .box {
+  margin: 0 10px 0 10px;
+  width: 680px;
+  height: auto;
+  padding: 10px 0 30px 0;
+  border-bottom: 1px dotted #900;
+  overflow: hidden;
+}
+/* line 185, ../scss/dulce.scss */
+article .left_box .news .box h5 {
+  width: 80px;
+  height: 20px;
+  line-height: 20px;
+  background-color: #900;
+  color: #fff;
+  font-size: 10px;
+  text-align: center;
+  float: left;
+}
+/* line 195, ../scss/dulce.scss */
+article .left_box .news .box time {
+  display: block;
+  width: 80px;
+  height: 20px;
+  line-height: 20px;
+  padding-left: 10px;
+  font-size: 10px;
+  color: #900;
+  float: left;
+}
+/* line 205, ../scss/dulce.scss */
+article .left_box .news .box span {
+  overflow: hidden;
+  display: block;
+  width: 500px;
+  height: 40px;
+  height: auto;
+  font-size: 12px;
+  color: #900;
+  padding-left: 10px;
+  float: left;
+}
+/* line 220, ../scss/dulce.scss */
+article .right_box {
+  width: 260px;
+  height: 260px;
+  float: right;
+}
+/* line 224, ../scss/dulce.scss */
+article .right_box .ask {
+  width: 260px;
+  height: 80px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  background-color: #fc9;
+}
+/* line 230, ../scss/dulce.scss */
+article .right_box .ask h5 {
+  height: 80px;
+  line-height: 80px;
+  padding-left: 10px;
+  color: #900;
+  text-align: center;
+  font-size: 18px;
+  font-weight: normal;
+}
+/* line 241, ../scss/dulce.scss */
+article .right_box .blog {
+  width: 260px;
+  height: 80px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  color: #fff;
+  background-color: #f99;
+}
+/* line 248, ../scss/dulce.scss */
+article .right_box .blog h5 {
+  padding: 20px 0 0 10px;
+  color: #fff;
+  font-weight: normal;
+}
+/* line 253, ../scss/dulce.scss */
+article .right_box .blog h4 {
+  padding: 0 0 0 10px;
+}
+/* line 257, ../scss/dulce.scss */
+article .right_box .media {
+  width: 260px;
+  height: 80px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  background-color: #fc9;
+  color: #900;
+}
+/* line 264, ../scss/dulce.scss */
+article .right_box .media h5 {
+  padding: 20px 0 0 10px;
+  font-weight: normal;
+}
+/* line 268, ../scss/dulce.scss */
+article .right_box .media h4 {
+  padding-left: 10px;
+}
+
+/* article */
+/* line 275, ../scss/dulce.scss */
+footer {
+  width: 980px;
+  height: 40px;
+  color: #900;
+  border-bottom: 2px solid #900;
+}
+/* line 279, ../scss/dulce.scss */
+footer h5 {
+  float: left;
+  height: 40px;
+  line-height: 40px;
+  font-size: 10px;
+}
+/* line 285, ../scss/dulce.scss */
+footer a {
+  height: 40px;
+  line-height: 40px;
+  float: right;
+  color: #900;
+  font-size: 12px;
+}
