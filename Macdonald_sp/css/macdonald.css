@@ -1,0 +1,172 @@
+/* line 3, ../scss/macdonald.scss */
+.logo, .main_image, .drink, .quality {
+  background-color: #0cf;
+}
+
+/* line 7, ../scss/macdonald.scss */
+#links .box_small, #links .box_large, #links .box_wide {
+  display: inline-block;
+  margin-bottom: 5px;
+  background-color: #633;
+}
+
+/* line 13, ../scss/macdonald.scss */
+body {
+  color: #fff;
+  font-size: 12px;
+  background-color: #522;
+}
+
+/* line 19, ../scss/macdonald.scss */
+.logo {
+  width: 40px;
+  height: 40px;
+}
+
+/* line 25, ../scss/macdonald.scss */
+.main_image {
+  width: 100%;
+  height: 300px;
+}
+
+/* line 31, ../scss/macdonald.scss */
+.drink {
+  width: 100%;
+  height: 60px;
+}
+
+/* line 37, ../scss/macdonald.scss */
+.quality {
+  width: 100%;
+  height: 60px;
+}
+
+/* line 44, ../scss/macdonald.scss */
+#header {
+  width: 100%;
+  height: 40px;
+  background-color: #933;
+}
+/* line 49, ../scss/macdonald.scss */
+#header .box_left {
+  width: 70%;
+  height: 40px;
+  float: left;
+}
+/* line 54, ../scss/macdonald.scss */
+#header .box_right {
+  box-sizing: border-box;
+  width: 30%;
+  height: 40px;
+  float: right;
+  line-height: 40px;
+}
+
+/* line 63, ../scss/macdonald.scss */
+#main_image {
+  width: 100%;
+  height: 300px;
+}
+
+/* line 68, ../scss/macdonald.scss */
+#drink {
+  width: 90%;
+  height: 60px;
+  margin: 10px auto 0 auto;
+}
+
+/* line 74, ../scss/macdonald.scss */
+#quality {
+  width: 90%;
+  height: 60px;
+  margin: 10px auto 0 auto;
+}
+
+/* line 80, ../scss/macdonald.scss */
+#links {
+  width: 90%;
+  height: 100px;
+  margin: 10px auto 0 auto;
+}
+/* line 85, ../scss/macdonald.scss */
+#links .box_small {
+  width: 24%;
+  height: 60px;
+  margin-right: 1%;
+}
+/* line 92, ../scss/macdonald.scss */
+#links .box_large {
+  width: 49%;
+  height: 60px;
+}
+/* line 98, ../scss/macdonald.scss */
+#links .box_wide {
+  width: 49%;
+  height: 20px;
+}
+/* line 104, ../scss/macdonald.scss */
+#links div:nth-of-type(4) {
+  margin-right: 1%;
+  width: 49%;
+}
+
+/* links */
+/* line 110, ../scss/macdonald.scss */
+#news {
+  width: 90%;
+  height: 200px;
+  margin: 0 auto;
+}
+/* line 114, ../scss/macdonald.scss */
+#news ul {
+  width: 100%;
+  height: 200px;
+}
+/* line 117, ../scss/macdonald.scss */
+#news ul li {
+  width: 100%;
+  padding-bottom: 1px;
+}
+/* line 120, ../scss/macdonald.scss */
+#news ul li a {
+  font-size: 12px;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* article */
+/* line 129, ../scss/macdonald.scss */
+#footer {
+  width: 90%;
+  height: 80px;
+  margin: 0 auto;
+}
+/* line 133, ../scss/macdonald.scss */
+#footer ul {
+  width: 100%;
+  height: 20px;
+}
+/* line 136, ../scss/macdonald.scss */
+#footer ul li {
+  width: 33%;
+  float: left;
+}
+/* line 142, ../scss/macdonald.scss */
+#footer ul li:nth-of-type(2) {
+  text-align: center;
+}
+/* line 145, ../scss/macdonald.scss */
+#footer ul li:nth-of-type(3) {
+  text-align: right;
+}
+/* line 148, ../scss/macdonald.scss */
+#footer ul li a {
+  font-size: 12px;
+  text-decoration: none;
+  color: #666;
+}
+/* line 156, ../scss/macdonald.scss */
+#footer .copy {
+  text-align: center;
+  color: #666;
+}
