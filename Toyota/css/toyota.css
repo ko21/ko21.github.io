@@ -1,0 +1,264 @@
+/* line 2, ../scss/toyota.scss */
+figure {
+  background-color: #ccf;
+}
+
+/* line 6, ../scss/toyota.scss */
+.headline {
+  box-sizing: border-box;
+  width: 100%;
+  height: 40px;
+  border: 1px solid #999;
+  border-radius: 5px 5px 0 0;
+}
+/* line 12, ../scss/toyota.scss */
+.headline .title {
+  padding: 10px 0 0 5px;
+  margin-left: 10px;
+  border-left: 5px solid #c00;
+  float: left;
+}
+/* line 18, ../scss/toyota.scss */
+.headline .detail {
+  float: right;
+  width: 60px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  border: 1px solid #999;
+  margin: 5px 5px 0 0;
+  font-size: 10px;
+}
+
+/* .headline */
+/* line 30, ../scss/toyota.scss */
+#l_header {
+  width: 100%;
+  height: 40px;
+  /* .box_wrap */
+}
+/* line 34, ../scss/toyota.scss */
+#l_header .box_wrap {
+  box-sizing: border-box;
+  padding: 5px;
+  width: 100%;
+  height: 30px;
+}
+/* line 41, ../scss/toyota.scss */
+#l_header figure {
+  width: 40%;
+  height: 30px;
+  float: left;
+}
+/* line 47, ../scss/toyota.scss */
+#l_header .menu {
+  display: block;
+  width: 60px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  border-left: 1px solid #000;
+  float: right;
+}
+/* line 57, ../scss/toyota.scss */
+#l_header .pc_site {
+  width: 80px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  border-left: 1px solid #000;
+  float: right;
+}
+
+/* #l_header */
+/* line 67, ../scss/toyota.scss */
+#l_main_image {
+  width: 100%;
+  height: 200px;
+  margin-bottom: 10px;
+}
+
+/* #l_main_image */
+/* line 73, ../scss/toyota.scss */
+#l_news {
+  width: 95%;
+  height: 40px;
+  margin: 0 auto 10px auto;
+}
+
+/* #l_news  */
+/* line 79, ../scss/toyota.scss */
+#l_car_lineup {
+  width: 95%;
+  height: 420px;
+  margin: 0 auto 10px auto;
+}
+/* line 83, ../scss/toyota.scss */
+#l_car_lineup .box_wrap {
+  width: 100%;
+  height: 380px;
+  border: 1px solid #ccc;
+}
+/* line 88, ../scss/toyota.scss */
+#l_car_lineup ul {
+  width: 95%;
+  height: 360px;
+  margin: 5px;
+}
+/* line 92, ../scss/toyota.scss */
+#l_car_lineup ul li {
+  box-sizing: border-box;
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  border: 2px solid #999;
+  border-bottom: none;
+  background-color: #eee;
+}
+/* line 101, ../scss/toyota.scss */
+#l_car_lineup ul li:last-child {
+  border-bottom: 2px solid #999999;
+}
+
+/* #l_car_lineup */
+/* line 107, ../scss/toyota.scss */
+#l_support {
+  width: 95%;
+  height: 150px;
+  margin: 0 auto 10px auto;
+}
+/* line 111, ../scss/toyota.scss */
+#l_support .box_wrap {
+  width: 100%;
+  height: 150px;
+  border: 1px solid #eee;
+}
+/* line 115, ../scss/toyota.scss */
+#l_support .box_wrap .box {
+  width: 200px;
+  height: 40px;
+  float: left;
+  margin: 5px 0 0 5px;
+  background-color: #cfc;
+}
+
+/* #l_support */
+/* line 125, ../scss/toyota.scss */
+#l_pick_up {
+  width: 95%;
+  height: 100px;
+  margin: 0 auto 10px auto;
+}
+/* line 130, ../scss/toyota.scss */
+#l_pick_up .box_wrap {
+  width: 100%;
+  height: 60px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+/* #l_pick_up */
+/* line 138, ../scss/toyota.scss */
+#l_portal {
+  width: 95%;
+  height: 80px;
+  margin: 0 auto 10px auto;
+}
+/* line 142, ../scss/toyota.scss */
+#l_portal .box_wrap {
+  background-color: #eee;
+  box-sizing: border-box;
+  padding: 10px;
+  width: 100%;
+  height: 80px;
+}
+/* line 149, ../scss/toyota.scss */
+#l_portal .box_wrap figure {
+  width: 40px;
+  height: 40px;
+  margin-top: 20px;
+  float: left;
+}
+/* line 156, ../scss/toyota.scss */
+#l_portal .box_wrap .box_right {
+  width: 300px;
+  height: 60px;
+  float: right;
+}
+/* line 160, ../scss/toyota.scss */
+#l_portal .box_wrap .box_right h5 {
+  border-bottom: 1px solid #333;
+  color: #333;
+  font-size: 14px;
+}
+/* line 166, ../scss/toyota.scss */
+#l_portal .box_wrap .box_right p {
+  width: 100%;
+  color: #999;
+  font-size: 11px;
+}
+
+/* #l_portal */
+/* line 175, ../scss/toyota.scss */
+#l_links {
+  width: 100%;
+  height: 120px;
+}
+/* line 178, ../scss/toyota.scss */
+#l_links ul {
+  width: 100%;
+  height: 120px;
+}
+/* line 181, ../scss/toyota.scss */
+#l_links ul li {
+  box-sizing: border-box;
+  height: 30px;
+  width: 100%;
+  line-height: 30px;
+  padding-left: 10px;
+  color: #333;
+  border: 1px solid #ccc;
+  border-bottom: none;
+}
+/* line 191, ../scss/toyota.scss */
+#l_links ul li:last-child {
+  border-top: 1px solid #ccc;
+}
+
+/* #l_links */
+/* line 197, ../scss/toyota.scss */
+#l_pagetop {
+  width: 100%;
+  height: 60px;
+  background-color: #eee;
+  border-top: 2px solid #999;
+}
+/* line 202, ../scss/toyota.scss */
+#l_pagetop h5 {
+  text-align: center;
+  line-height: 60px;
+  color: #333;
+}
+
+/* #l_pagetop */
+/* line 209, ../scss/toyota.scss */
+#l_footer {
+  width: 100%;
+  height: 40px;
+  background-color: #ccc;
+}
+/* line 213, ../scss/toyota.scss */
+#l_footer p {
+  text-align: center;
+  line-height: 40px;
+  color: #999;
+}
+
+/* #l_footer */
+/* ============ Component ============= */
+/* line 223, ../scss/toyota.scss */
+.main_image {
+  width: 400px;
+  height: 180px;
+  margin: 10px auto 0 auto;
+}
