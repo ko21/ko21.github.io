@@ -217,7 +217,7 @@
   border-bottom: 1px dotted #ccc;
 }
 /* line 208, ../scss/sirius.scss */
-#l_news ul li time {
+#l_news ul li span {
   font-size: 14px;
   display: inline-block;
 }
