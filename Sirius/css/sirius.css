@@ -1,0 +1,345 @@
+/* line 3, ../scss/sirius.scss */
+#l_header {
+  width: 100%;
+  height: 100px;
+  border-top: 3px solid #900;
+}
+/* line 8, ../scss/sirius.scss */
+#l_header .box_wrap {
+  width: 960px;
+  height: 100px;
+  margin: 0 auto;
+}
+/* line 13, ../scss/sirius.scss */
+#l_header .box_wrap .box_left {
+  width: 300px;
+  height: 100px;
+  float: left;
+}
+
+/* line 21, ../scss/sirius.scss */
+.logo {
+  width: 280px;
+  height: 60px;
+  margin-top: 30px;
+  background-color: #0cf;
+}
+
+/* line 28, ../scss/sirius.scss */
+.box_right {
+  position: relative;
+  width: 300px;
+  height: 100px;
+  float: right;
+}
+/* line 33, ../scss/sirius.scss */
+.box_right ul {
+  position: absolute;
+  width: 240px;
+  height: 40px;
+  right: 0;
+  border: 1px solid #999;
+  background-color: #ccc;
+}
+/* line 40, ../scss/sirius.scss */
+.box_right ul li {
+  width: 120px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 12px;
+  float: left;
+}
+/* line 51, ../scss/sirius.scss */
+.box_right .tel {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-top: 20px;
+  font-size: 24px;
+}
+
+/* box_right */
+/* line 61, ../scss/sirius.scss */
+#l_nav {
+  width: 100%;
+  height: 50px;
+  border-top: 1px solid #300;
+  border-bottom: 1px solid #300;
+  background-color: #900;
+}
+/* line 68, ../scss/sirius.scss */
+#l_nav ul {
+  width: 960px;
+  height: 40px;
+  margin: 5px auto 5px auto;
+}
+/* line 73, ../scss/sirius.scss */
+#l_nav ul li {
+  height: 40px;
+  float: left;
+  border-left: 1px solid #fff;
+  padding: 0 14px 0 14px;
+  line-height: 40px;
+  color: #fff;
+}
+/* line 81, ../scss/sirius.scss */
+#l_nav ul li:last-child {
+  border-right: 1px solid #fff;
+  padding: 0 20px 0 20px;
+}
+
+/* #l_nav */
+/* line 89, ../scss/sirius.scss */
+#l_main_image {
+  width: 100%;
+  height: 300px;
+  margin: 0 auto 20px auto;
+}
+
+/* line 95, ../scss/sirius.scss */
+.main_image {
+  width: 960px;
+  height: 300px;
+  margin: 0 auto;
+  background-color: #cfc;
+}
+
+/* main_iamge */
+/* line 104, ../scss/sirius.scss */
+#l_appeal {
+  width: 100%;
+  height: 40px;
+  margin-bottom: 30px;
+}
+/* line 109, ../scss/sirius.scss */
+#l_appeal h5 {
+  width: 940px;
+  height: 20px;
+  padding: 10px;
+  border: 1px solid #900;
+  margin: 0 auto;
+  color: #900;
+  font-size: 14px;
+}
+
+/* l_appeal */
+/* line 123, ../scss/sirius.scss */
+#l_main {
+  width: 960px;
+  height: 900px;
+  margin: 0 auto 80px auto;
+}
+
+/* line 129, ../scss/sirius.scss */
+#l_box-left {
+  width: 680px;
+  height: auto;
+  margin-right: 40px;
+  float: left;
+}
+
+/* line 136, ../scss/sirius.scss */
+#l_links {
+  width: 680px;
+  height: 210px;
+  margin-bottom: 40px;
+}
+/* line 141, ../scss/sirius.scss */
+#l_links .box {
+  width: 198px;
+  height: 200px;
+  border: 1px solid #ccc;
+  margin-right: 25px;
+  position: relative;
+  float: left;
+}
+/* line 149, ../scss/sirius.scss */
+#l_links .box .box-title {
+  width: 198px;
+  height: 50px;
+  background-image: url(mint-green.png);
+}
+/* line 155, ../scss/sirius.scss */
+#l_links .box p {
+  width: 160px;
+  height: 120px;
+  margin: 10px 20px 0 20px;
+  font-size: 14px;
+}
+/* line 162, ../scss/sirius.scss */
+#l_links .box span {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  color: #900;
+  font-size: 14px;
+}
+/* line 171, ../scss/sirius.scss */
+#l_links .box:last-child {
+  margin-right: none;
+}
+
+/* #l_links */
+/* line 178, ../scss/sirius.scss */
+#l_news {
+  width: 680px;
+  height: 700px;
+  /* ul */
+}
+/* line 182, ../scss/sirius.scss */
+#l_news .info {
+  width: 680px;
+  height: 38px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+/* line 189, ../scss/sirius.scss */
+#l_news h4 {
+  width: 660px;
+  height: 40px;
+  line-height: 40px;
+  border-left: 10px solid #900;
+  padding-left: 30px;
+  margin-top: -1px;
+}
+/* line 198, ../scss/sirius.scss */
+#l_news ul {
+  width: 680px;
+  height: 400px;
+}
+/* line 202, ../scss/sirius.scss */
+#l_news ul li {
+  width: 680px;
+  height: auto;
+  padding: 20px 0 20px 0;
+  border-bottom: 1px dotted #ccc;
+}
+/* line 208, ../scss/sirius.scss */
+#l_news ul li time {
+  font-size: 14px;
+  display: inline-block;
+}
+/* line 213, ../scss/sirius.scss */
+#l_news ul li a {
+  display: inline-block;
+  color: #0cf;
+  padding-left: 20px;
+  text-decoration: none;
+  font-size: 16px;
+}
+/* line 223, ../scss/sirius.scss */
+#l_news .facebook {
+  width: 678px;
+  height: 300px;
+  border: 1px solid #333;
+  margin-top: 20px;
+}
+
+/* l_news */
+/* line 232, ../scss/sirius.scss */
+#l_box-right {
+  width: 240px;
+  height: auto;
+  float: right;
+}
+/* line 236, ../scss/sirius.scss */
+#l_box-right .title {
+  width: 230px;
+  height: 40px;
+  background-color: #0cf;
+  line-height: 40px;
+  color: #fff;
+  font-weight: bold;
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+
+/* line 248, ../scss/sirius.scss */
+.brochure {
+  width: 240px;
+  height: 240px;
+  background-color: #eee;
+  margin-bottom: 10px;
+}
+
+/* line 255, ../scss/sirius.scss */
+.banner {
+  width: 240px;
+  height: 60px;
+  background-color: #eee;
+  margin-bottom: 10px;
+}
+
+/* main */
+/* line 264, ../scss/sirius.scss */
+#l_page-top {
+  position: relative;
+  width: 960px;
+  height: 40px;
+  margin: 0 auto;
+}
+
+/* line 271, ../scss/sirius.scss */
+.page-top {
+  width: 160px;
+  height: 40px;
+  line-height: 40px;
+  color: #fff;
+  margin: 0 auto;
+  position: absolute;
+  right: 0;
+  background-color: #900;
+  text-align: center;
+  cursor: pointer;
+}
+
+/* l_page-top */
+/* line 286, ../scss/sirius.scss */
+#l_footer {
+  width: 100%;
+  height: 240px;
+  background-color: #eee;
+  border-top: 2px solid #900;
+  /* box_wrap */
+}
+/* line 292, ../scss/sirius.scss */
+#l_footer .box_wrap {
+  width: 960px;
+  height: 200px;
+  margin: 0 auto;
+}
+/* line 297, ../scss/sirius.scss */
+#l_footer .box_wrap ul {
+  width: 900px;
+  height: 20px;
+  margin: 0 0 10px 0;
+}
+/* line 302, ../scss/sirius.scss */
+#l_footer .box_wrap ul li {
+  padding: 0 7px 0 7px;
+  border-left: 1px solid #000;
+  float: left;
+}
+/* line 308, ../scss/sirius.scss */
+#l_footer .box_wrap ul li:last-child {
+  border-right: 1px solid #000;
+}
+/* line 313, ../scss/sirius.scss */
+#l_footer .box_wrap ul:first-child {
+  margin-top: 20px;
+}
+/* line 317, ../scss/sirius.scss */
+#l_footer .box_wrap .company-name {
+  font-weight: bold;
+  margin-top: 20px;
+}
+/* line 322, ../scss/sirius.scss */
+#l_footer .box_wrap .address {
+  margin-bottom: 20px;
+}
+/* line 324, ../scss/sirius.scss */
+#l_footer .box_wrap .address span {
+  margin-right: 10px;
+}
